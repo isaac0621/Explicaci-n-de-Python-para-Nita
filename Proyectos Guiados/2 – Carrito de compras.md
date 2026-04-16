@@ -1,6 +1,4 @@
-# 2. 📊 Tipos de datos
-
-# 🛒 Carrito de compras
+# 🛒 Proyecto 2 – Carrito de compras
 
 ## 🎯 Objetivo
 Aplicar `while` + acumulación de datos.
