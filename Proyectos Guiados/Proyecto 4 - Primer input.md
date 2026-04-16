@@ -1,10 +1,11 @@
 # 4. ⌨️ Primer input
 
-# ⌨️ Input Básico
+Pedir:
+- nombre
+
+Mostrar:
+"Hola + nombre"
 
 ## Objetivo
 Pedir datos al usuario.
 
-```python
-nombre = input("¿Cómo te llamás? ")
-print("Hola", nombre)
