@@ -1,4 +1,4 @@
-# 🚀 Curso Interactivo de Python – Nita
+# 🚀 Explicación Interactivo de Python – Nita
 
 Bienvenida Nita 👋  
 Este no es un curso normal. Es un **entrenamiento práctico paso a paso**.
