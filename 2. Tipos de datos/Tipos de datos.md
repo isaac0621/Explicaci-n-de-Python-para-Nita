@@ -14,4 +14,6 @@ altura = 1.65
 es_tica = True
 ```
 
+Cuando me dicen: tipos de datos, se están refiríendo al tipo de variable que vamos a utilizar.
+
 ---
