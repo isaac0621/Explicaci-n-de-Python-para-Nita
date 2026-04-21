@@ -13,3 +13,4 @@ while contador <= 5:
 ⚠️ Si no actualizás la variable → bucle infinito
 
 ---
+
