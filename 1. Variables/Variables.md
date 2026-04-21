@@ -15,3 +15,7 @@ edad = 31
 print(nombre)
 print(edad)
 ```
+
+nombre es una variable String, esto se refiere a texto. El texto debe ir entre comillas "".
+
+edad es una variable numeríca, esto se refiere a solo números
